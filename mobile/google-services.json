@@ -1,0 +1,39 @@
+{
+	"project_info": {
+		"project_number": "596410220333",
+		"project_id": "sikece-bekasi",
+		"storage_bucket": "sikece-bekasi.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:596410220333:android:97e9a6e46daa6cf524dda4",
+				"android_client_info": {
+					"package_name": "com.sikece.bekasi"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "596410220333-7f677a6ebhn5m3rk3rvfnqav9iie0ur8.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyAtfMXFetO8PUy8uprxyjZ5czucfhGQhqg"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "596410220333-7f677a6ebhn5m3rk3rvfnqav9iie0ur8.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="global_keyline_16">16dp</dimen>
+
+    <dimen name="global_spacing_32">32dp</dimen>
+    <dimen name="global_spacing_56">56dp</dimen>
+
+    <dimen name="global_text_size_subhead">16sp</dimen>
+
+    <dimen name="navigation_header_height">156dp</dimen>
+
+	<dimen name="placeholder_image_size">144dp</dimen>
+
+	<dimen name="splash_image_size">144dp</dimen>
+</resources>
